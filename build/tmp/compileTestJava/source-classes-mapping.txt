@@ -1,0 +1,8 @@
+com/example/rozetka/BaseTest.java
+ com.example.rozetka.BaseTest
+com/example/rozetka/MainPageTest.java
+ com.example.rozetka.MainPageTest
+com/example/rozetka/ProductPage.java
+ com.example.rozetka.ProductPage
+com/example/rozetka/MainPage.java
+ com.example.rozetka.MainPage
